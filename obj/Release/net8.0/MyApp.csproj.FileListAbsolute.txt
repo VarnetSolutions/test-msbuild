@@ -1,0 +1,14 @@
+C:\Users\Varnet\bin\Release\MyApp.exe
+C:\Users\Varnet\bin\Release\MyApp.deps.json
+C:\Users\Varnet\bin\Release\MyApp.runtimeconfig.json
+C:\Users\Varnet\bin\Release\MyApp.dll
+C:\Users\Varnet\bin\Release\MyApp.pdb
+C:\Users\Varnet\MyApp\obj\Release\net8.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Varnet\MyApp\obj\Release\net8.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\Varnet\MyApp\obj\Release\net8.0\MyApp.AssemblyInfo.cs
+C:\Users\Varnet\MyApp\obj\Release\net8.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\Varnet\MyApp\obj\Release\net8.0\MyApp.dll
+C:\Users\Varnet\MyApp\obj\Release\net8.0\refint\MyApp.dll
+C:\Users\Varnet\MyApp\obj\Release\net8.0\MyApp.pdb
+C:\Users\Varnet\MyApp\obj\Release\net8.0\MyApp.genruntimeconfig.cache
+C:\Users\Varnet\MyApp\obj\Release\net8.0\ref\MyApp.dll
